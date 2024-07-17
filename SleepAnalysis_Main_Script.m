@@ -6,7 +6,7 @@
 
 
 %  --- Load all parameters from InputParameters.m (Change this line to your input file name saved in the same directory. ie if your file is called MyInputParams.m you will have S=MyInputParams;)
-S = InputParamsLizzy;
+S = InputParameters;
 
 
 
